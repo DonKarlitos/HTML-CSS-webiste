@@ -1,0 +1,45 @@
+body {
+  background-color: #DADDFC;
+}
+
+hr {
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 8px;
+}
+
+h1 {
+  color: #396EB0;
+}
+
+h3 {
+  color: #396EB0;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+
+.heading {
+  color: green;
+  font-size: 200px;
+}
+
+.naslov {
+  color: brown;
+  font-size: 100px
+}
+
+.broccoli {
+  border-radius: 100%;
+  background-color: red;
+}
+
+.bacon {
+  border-top-right-radius: 40% 20%;
+  border-bottom-left-radius: 40% 20%;
+  background-color: green;
+}
